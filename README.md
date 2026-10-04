@@ -1,36 +1,30 @@
-# 👋 Hi, I’m MasonSama404
+# Hi, I'm Mason
 
-- 🎓 **Student | Lifelong Learner**
-- 💻 **Code Explorer:** Python, Django, Vue, TypeScript, JavaScript, Go, C/C++
-- 🚀 **Currently Building:** Working on the future—stay tuned for something cool!
-- 💬 **Connect:** QQ (just ask!)
-- 🧢 **Motto:** YOLO!
+I work on **Agent Infrastructure**, building and debugging the systems behind LLM-powered agents.
 
----
+My work spans LLM gateways, session-aware routing, model API compatibility, prompt caching, tracing, and sandbox environments. I like understanding how systems work—and turning that understanding into runnable code and reproducible experiments.
 
-## 🛠️ Tech Stack
+## Engineering interests
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&logoColor=white)
+- **Agent runtime & control planes** — sessions, execution lifecycle, tool use, and sandbox orchestration.
+- **LLM serving & gateways** — routing, streaming, concurrency, caching, and protocol compatibility.
+- **Observability & reliability** — tracing requests across services and investigating network, connection, and container issues.
 
----
+## Research interests
 
-## 🌱 About Me
+I'm exploring **adaptive multi-agent communication**, **agent post-training**, and the connection between systems design and agent behavior.
 
-I’m passionate about coding, always curious, and always learning. Whether it’s web development with Django & Vue or exploring the power of Go and C++, I love building projects that matter. My journey is just getting started, and I’m excited for what comes next!
+I value clear baselines, reproducible evaluations, and honest accounts of what works and what doesn't.
 
----
+## Beyond infrastructure
 
-## 📫 Get in Touch
+I also enjoy game development and quantitative research.
 
-- **QQ:** (DM me for my contact!)
-- *(Add more links if you want!)*
+- [吱吱喵喵 · GameJam](https://github.com/MasonSama404/GameJam) — a Unity multiplayer game project. Development is currently paused; I may return to it later.
+- [Flower](https://github.com/MasonSama404/flower) — a small scroll-driven canvas experiment made for Qixi.
 
----
+## What I share
 
-> **YOLO!**
+Engineering notes, runnable experiments, and technical write-ups grounded in problems I've investigated.
+
+**Tools I work with:** Python · Go · Linux · Docker · vLLM · SGLang
